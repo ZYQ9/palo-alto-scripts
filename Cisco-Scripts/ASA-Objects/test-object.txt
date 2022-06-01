@@ -1,7 +1,0 @@
-object network NETWORK_OBJ_10.1.0.0_29
- subnet 10.1.0.0 255.255.255.248
- description CoD-outside-admin
-object network svr-ClerkworksFTP
- host 216.177.7.107
-object network obj-maps.google.com
- fqdn maps.google.com
